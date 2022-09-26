@@ -1,0 +1,80 @@
+name: fawry_app
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  e_invoice_generator: any
+  pdf: any
+  share_plus: ^4.0.6
+  video_player: ^2.4.5
+  path_provider: 
+  open_file: ^3.2.1
+  get_storage:
+  flutter_native_splash: 
+  dotted_border: 
+  flutter_slidable: ^2.0.0
+  dotted_line: ^3.1.0
+  flutter_local_notifications: ^9.5.3+1
+  platform: ^3.1.0
+  signalr_client: ^0.1.6
+  webview_flutter: ^3.0.4
+  http: ^0.13.4
+  adaptive_dialog: ^1.6.3
+  url_launcher: ^6.1.2
+  image_picker: ^0.8.5
+  permission_handler: ^10.0.0
+  image: ^3.0.2
+  intl:
+  syncfusion_flutter_charts: ^20.1.61
+  flutter_phone_direct_caller: ^2.1.1
+  # flutter_bluetooth_basic: ^0.1.7
+  # esc_pos_utils: ^1.1.0
+  # esc_pos_bluetooth: ^0.4.1
+  # charset_converter: ^2.1.0
+  adaptive_action_sheet: ^2.0.1
+  pull_to_refresh: ^2.0.0
+  # dropdown_button2: ^1.7.1
+  jiffy: ^5.0.0
+  # firebase_core: ^1.20.0
+  # firebase_messaging: ^13.0.1
+  # app_tracking_transparency: ^2.0.2+4
+  flutter_countdown_timer: ^4.1.0
+  g_json: ^4.1.0
+  translator: ^0.1.7
+  flutter_localizations:
+    sdk: flutter
+  
+  flutter: 
+    sdk: flutter
+  firebase_core: ^1.22.0
+  firebase_messaging: ^13.0.1
+  # internet_connection_checker: ^0.0.1+4
+  # connectivity_plus: ^2.3.7
+  
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/fonts/
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal-Black.ttf
+        - asset: assets/fonts/Tajawal-Bold.ttf
+        - asset: assets/fonts/Tajawal-ExtraBold.ttf
+        - asset: assets/fonts/Tajawal-ExtraLight.ttf
+        - asset: assets/fonts/Tajawal-Light.ttf
+        - asset: assets/fonts/Tajawal-Medium.ttf
+        - asset: assets/fonts/Tajawal-Regular.ttf
+
+

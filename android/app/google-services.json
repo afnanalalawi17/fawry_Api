@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "785008047193",
+    "project_id": "fawry-3608c",
+    "storage_bucket": "fawry-3608c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785008047193:android:97fe3169c829469f2aed48",
+        "android_client_info": {
+          "package_name": "com.hyper.fawry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785008047193-tqnb495o7hr531v9jegg69g3lj0u0nbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqM5SH_PpLcuIujVl-0_vTgYAyVxHrrHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785008047193-tqnb495o7hr531v9jegg69g3lj0u0nbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785008047193-957i3nktrea6qhrro1r2n8fo4qgg67kn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hyper.fawryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
